@@ -1,0 +1,78 @@
+
+*{
+
+
+
+}
+body { 
+  background: url("https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/activities/star%20wars/2016/backgrounds/lsw_activities_backgrounds_starfield_primary.jpg?l.r2=-1377126531") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	color: #fff;
+
+}
+.playerChoice{
+
+	margin-top: 25%;
+
+}
+.heroDiv{
+	
+	margin-top: 5%;
+
+}
+.enemyDiv{
+
+	margin-top: 10%;
+	margin-bottom: 5%;
+
+}
+.attackDiv{
+
+	margin-top: 10%;
+
+}
+.obiWan{
+
+	background-color: lightgrey;
+	padding: 10px 10px 10px 10px
+
+}
+.luke{
+
+	background-color: lightgrey;
+	padding: 10px 10px 10px 10px
+
+}
+.sidious{
+
+	background-color: lightgrey;
+	padding: 10px 10px 10px 10px
+
+}
+.maul{
+
+	background-color: lightgrey;
+	padding: 10px 10px 10px 10px
+
+}
+#attack{
+
+	height: 100px;
+	width: 200px;
+	background-color: #fff;
+	color: grey;
+
+}
+
+
+
+
+
+
+
+
+
